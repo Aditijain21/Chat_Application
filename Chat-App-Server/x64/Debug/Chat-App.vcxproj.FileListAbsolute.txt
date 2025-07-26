@@ -1,0 +1,2 @@
+F:\C++ project\Chat-App\x64\Debug\Chat-App.exe
+F:\C++ project\Chat-App-Server\x64\Debug\Chat-App.exe
